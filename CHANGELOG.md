@@ -1,3 +1,3 @@
-## 0.0.6
+# 1.0.0
 
-- `resetBrightness()` now is working on iOS.
+- Fixes android build issues with Flutter 3.29
