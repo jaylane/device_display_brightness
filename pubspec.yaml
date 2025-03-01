@@ -19,7 +19,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.sominviacheslav.device_display_brightness
+        package: com.jlane.device_display_brightness
         pluginClass: DeviceDisplayBrightnessPlugin
       ios:
         pluginClass: DeviceDisplayBrightnessPlugin
