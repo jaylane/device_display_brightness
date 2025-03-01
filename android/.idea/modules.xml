@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/device_display_brightness.iml" filepath="$PROJECT_DIR$/.idea/modules/device_display_brightness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/device_display_brightness.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/device_display_brightness.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/device_display_brightness.main.iml" filepath="$PROJECT_DIR$/.idea/modules/device_display_brightness.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/device_display_brightness.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/device_display_brightness.unitTest.iml" />
     </modules>
   </component>
 </project>
